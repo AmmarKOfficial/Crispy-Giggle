@@ -15,4 +15,4 @@ Feel free to use the code and resources in this repository for educational or pe
 I am not currently accepting contributions to this repository. However, if you find any errors or issues with the code or resources, please feel free to create an issue or contact me directly.
 
 <h3>Contact</h2>
-If you have any questions or would like to contact me, you can reach me at my email address: ammarkhan@email.com.
+If you have any questions or would like to contact me, you can reach me at my email address: ammarkofficial@gmail.com.
