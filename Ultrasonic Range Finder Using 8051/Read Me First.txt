@@ -1,0 +1,6 @@
+How To Run The Simmulation Properly
+
+Step 1: Add Hex File To The Microcontroller
+Step 2: Add Ultrasonic Hex File To HC SR04
+
+Run The Simulation  

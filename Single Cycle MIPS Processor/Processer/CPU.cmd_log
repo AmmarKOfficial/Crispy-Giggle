@@ -1,0 +1,3 @@
+xst -intstyle ise -ifn "G:/verilog/verliog project/Processer/CPU.xst" -ofn "G:/verilog/verliog project/Processer/CPU.syr" 
+xst -intstyle ise -ifn "C:/Users/student/Downloads/Processer/CPU.xst" -ofn "C:/Users/student/Downloads/Processer/CPU.syr" 
+xst -intstyle ise -ifn "D:/University/Semester 7/Digital System Design/Lab/DSD Project/Processer/CPU.xst" -ofn "D:/University/Semester 7/Digital System Design/Lab/DSD Project/Processer/CPU.syr" 
